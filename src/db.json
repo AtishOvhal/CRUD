@@ -1,0 +1,244 @@
+ {   
+    "users" :[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": "123-456-7890",
+      "username": "johndoe",
+      "website": "https://johndoe.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "phone": "098-765-4321",
+      "username": "janesmith",
+      "website": "https://janesmith.com"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bobjohnson@example.com",
+      "phone": "555-123-4567",
+      "username": "bobjohnson",
+      "website": "https://bobjohnson.com"
+    },
+    {
+      "id": 4,
+      "name": "Alice Brown",
+      "email": "alicebrown@example.com",
+      "phone": "555-555-5555",
+      "username": "alicebrown",
+      "website": "https://alicebrown.com"
+    },
+    {
+      "id": 5,
+      "name": "Mike Davis",
+      "email": "mikedavis@example.com",
+      "phone": "555-123-4567",
+      "username": "mikedavis",
+      "website": "https://mikedavis.com"
+    },
+    {
+      "id": 6,
+      "name": "Emily Chen",
+      "email": "emilychen@example.com",
+      "phone": "555-555-5555",
+      "username": "emilychen",
+      "website": "https://emilychen.com"
+    },
+    {
+      "id": 7,
+      "name": "Tom Harris",
+      "email": "tomharris@example.com",
+      "phone": "555-123-4567",
+      "username": "tomharris",
+      "website": "https://tomharris.com"
+    },
+    {
+      "id": 8,
+      "name": "Lily Lee",
+      "email": "lillee@example.com",
+      "phone": "555-555-5555",
+      "username": "lillee",
+      "website": "https://lillee.com"
+    },
+    {
+      "id": 9,
+      "name": "Kevin White",
+      "email": "kevinwhite@example.com",
+      "phone": "555-123-4567",
+      "username": "kevinwhite",
+      "website": "https://kevinwhite.com"
+    },
+    {
+      "id": 10,
+      "name": "Sarah Taylor",
+      "email": "sarahtaylor@example.com",
+      "phone": "555-555-5555",
+      "username": "sarahtaylor",
+      "website": "https://sarahtaylor.com"
+    },
+    {
+      "id": 11,
+      "name": "David Hall",
+      "email": "davidhall@example.com",
+      "phone": "555-123-4567",
+      "username": "davidhall",
+      "website": "https://davidhall.com"
+    },
+    {
+      "id": 12,
+      "name": "Olivia Martin",
+      "email": "oliviamartin@example.com",
+      "phone": "555-555-5555",
+      "username": "oliviamartin",
+      "website": "https://oliviamartin.com"
+    },
+    {
+      "id": 13,
+      "name": "Benjamin Lewis",
+      "email": "benjaminlewis@example.com",
+      "phone": "555-123-4567",
+      "username": "benjaminlewis",
+      "website": "https://benjaminlewis.com"
+    },
+    {
+      "id": 14,
+      "name": "Hannah Walker",
+      "email": "hannahwalker@example.com",
+      "phone": "555-555-5555",
+      "username": "hannahwalker",
+      "website": "https://hannahwalker.com"
+    },
+    {
+      "id": 15,
+      "name": "Alexander Brooks",
+      "email": "alexanderbrooks@example.com",
+      "phone": "555-123-4567",
+      "username": "alexanderbrooks",
+      "website": "https://alexanderbrooks.com"
+    },
+    {
+      "id": 16,
+      "name": "Isabella Garcia",
+      "email": "isabellagarcia@example.com",
+      "phone": "555-555-5555",
+      " username": "isabellagarcia",
+      "website": "https://isabellagarcia.com"
+    },
+    {
+      "id": 17,
+      "name": "Ethan Thompson",
+      "email": "ethanthompson@example.com",
+      "phone": "555-123-4567",
+      "username": "ethanthompson",
+      "website": "https://ethanthompson.com"
+    },
+    {
+      "id": 18,
+      "name": "Ava Russell",
+      "email": "avarussell@example.com",
+      "phone": "555-555-5555",
+      "username": "avarussell",
+      "website": "https://avarussell.com"
+    },
+    {
+      "id": 19,
+      "name": "Julian Sanchez",
+      "email": "juliansanchez@example.com",
+      "phone": "555-123-4567",
+      "username": "juliansanchez",
+      "website": "https://juliansanchez.com"
+    },
+    {
+      "id": 20,
+      "name": "Sofia Rodriguez",
+      "email": "sofiarodriguez@example.com",
+      "phone": "555-555-5555",
+      "username": "sofiarodriguez",
+      "website": "https://sofiarodriguez.com"
+    },
+    {
+      "id": 21,
+      "name": "Logan Lee",
+      "email": "loganlee@example.com",
+      "phone": "555-123-4567",
+      "username": "loganlee",
+      "website": "https://loganlee.com"
+    },
+    {
+      "id": 22,
+      "name": "Mia Kim",
+      "email": "miakim@example.com",
+      "phone": "555-555-5555",
+      "username": "miakim",
+      "website": "https://miakim.com"
+    },
+    {
+      "id": 23,
+      "name": "Gabriel Brown",
+      "email": "gabrielbrown@example.com",
+      "phone": "555-123-4567",
+      "username": "gabrielbrown",
+      "website": "https://gabrielbrown.com"
+    },
+    {
+      "id": 24,
+      "name": "Charlotte Davis",
+      "email": "charlottedavis@example.com",
+      "phone": "555-555-5555",
+      "username": "charlottedavis",
+      "website": "https://charlottedavis.com"
+    },
+    {
+      "id": 25,
+      "name": "William White",
+      "email": "williamwhite@example.com",
+      "phone": "555-123-4567",
+      "username": "williamwhite",
+      "website": "https://williamwhite.com"
+    },
+    {
+      "id": 26,
+      "name": "Abigail Martin",
+      "email": "abigailmartin@example.com",
+      "phone": "555-555-5555",
+      "username": "abigailmartin",
+      "website": "https://abigailmartin.com"
+    },
+    {
+      "id": 27,
+      "name": "Elijah Hall",
+      "email": "elijahhall@example.com",
+      "phone": "555-123-4567",
+      "username": "elijahhall",
+      "website": "https://elijahhall.com"
+    },
+    {
+      "id": 28,
+      "name": "Harper Taylor",
+      "email": "harpertaylor@example.com",
+      "phone": "555-555-5555",
+      "username": "harpertaylor",
+      "website": "https://harpertaylor.com"
+    },
+    {
+      "id": 29,
+      "name": "Landon Brooks",
+      "email": "landonbrooks@example.com",
+      "phone": "555-123-4567",
+      "username": "landonbrooks",
+      "website": "https://landonbrooks.com"
+    },
+    {
+      "id": 30,
+      "name": "Avery Russell",
+      "email": "averyrussell@example.com",
+      "phone": "555-555-5555",
+      "username": "averyrussell",
+      "website": "https://averyrussell.com"
+    }
+]
+}
